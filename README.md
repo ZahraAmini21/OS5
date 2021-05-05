@@ -22,7 +22,7 @@ cd exercise5
 git init
 git add --all
 git commit -m "exercise 5"
-در گیت هاب یک دیپاتوری به اسم اکسرسایز ایجاد میکنیم و دستورات زیر رو وارد میکنیم
+در گیت هاب یک ریپازیتوری به اسم اکسرسایز ایجاد میکنیم و دستورات زیر رو وارد میکنیم
 git remote add origin< url_repo>
 git branch -M main
 git push -u origin main
